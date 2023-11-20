@@ -7,7 +7,7 @@
 
 ## Instruções de Uso
 
-Ao executar o script, uma interface de linha de comando (CLI) será aberta, e simultaneamente, uma janela será exibida para permitir que você escolha o arquivo `.py` que deseja transformar em executável. Após a conclusão do processo, o executável resultante estará disponível na pasta "dist", localizada no mesmo diretório do seu arquivo Python original.
+Ao executar o script, uma interface de linha de comando (CLI) será aberta, e simultaneamente, uma janela será exibida para permitir que você escolha o arquivo `.py` que deseja transformar em `.exe`. Após a conclusão do processo, o executável resultante estará disponível na pasta "dist", localizada no mesmo diretório do seu arquivo Python original.
 
 ## Contribuição
 
