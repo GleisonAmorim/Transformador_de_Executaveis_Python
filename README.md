@@ -4,27 +4,13 @@ Este script Python utiliza a biblioteca Tkinter para criar uma interface gráfic
 
 ### Incluí o EXE aqui também com interface para interação
 
+## Instruções de Uso
+
+Ao executar o script, uma interface de linha de comando (CLI) será aberta, e simultaneamente, uma janela será exibida para permitir que você escolha o arquivo `.py` que deseja transformar em executável. Após a conclusão do processo, o executável resultante estará disponível na pasta "dist", localizada no mesmo diretório do seu arquivo Python original.
 
 ## Contribuição
 
 Sinta-se à vontade para contribuir, reportar problemas ou sugerir melhorias. Basta abrir uma issue ou enviar um pull request.
 
-
-**Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
-   cd seu_repositorio
-   
-Instale as dependências:
-
-pip install -r requirements.txt
-
-Execute o script:
-
-python nome_do_script.py
-
-Requisitos
-Python 3.x
-PyInstaller
 
 
